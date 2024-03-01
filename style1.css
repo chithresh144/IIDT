@@ -1,0 +1,19 @@
+table{
+    width: 100%;
+    text-align: center;
+}
+tr,th{
+    text-align: left;
+    background-color: rgb(199, 235, 199);
+}
+#h1
+{
+    text-align: center;
+    background-color: limegreen;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+td:nth-child(even)
+{
+    background-color: rgb(169, 247, 169);
+}
