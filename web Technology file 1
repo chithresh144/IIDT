@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>My Blog</title>
+</head>
+<body>
+ <header>
+   <nav>
+     <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">About</a></li>
+       <li><a href="#">Contact</a></li>
+     </ul>
+   </nav>
+ </header>
+
+ <main>
+   <article>
+     <header>
+       <h1>Welcome to My Blog</h1>
+       <figure>
+         <img src="https://via.placeholder.com/800x400" alt="Blog Header Image">
+         <figcaption>A beautiful landscape</figcaption>
+       </figure>
+     </header>
+     <section>
+       <h2>About This Blog</h2>
+       <p>This is a blog about my travels and adventures around the world. Here, you'll find stories, tips, and insights from my journeys.</p>
+     </section>
+   </article>
+
+   <article>
+     <header>
+       <h2>My Trip to Paris</h2>
+       <figure>
+         <img src="https://via.placeholder.com/600x400" alt="Paris Image">
+         <figcaption>The Eiffel Tower at night</figcaption>
+       </figure>
+     </header>
+     <section>
+       <h3>Day 1: Exploring the City</h3>
+       <p>On my first day in Paris, I visited the iconic Eiffel Tower and walked along the Champs-Élysées. The city was full of life and energy.</p>
+       <ul>
+         <li>Visit the Louvre Museum</li>
+         <li>Take a Seine River cruise</li>
+         <li>Explore the Latin Quarter</li>
+       </ul>
+     </section>
+     <section>
+       <h3>Day 2: Indulging in French Cuisine</h3>
+       <p>No trip to Paris is complete without savoring the delicious French cuisine. I had the opportunity to dine at some of the city's best restaurants.</p>
+     </section>
+   </article>
+ </main>
+
+ <footer>
+   <p>&copy; 2023 My Blog. All rights reserved.</p>
+ </footer>
+</body>
+</html>
